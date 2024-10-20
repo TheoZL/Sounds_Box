@@ -24,7 +24,7 @@ Instalación
 
 Clona este repositorio o descarga los archivos del proyecto en tu equipo local:
 
-	1. git clone https://github.com/tu-usuario/sounds_box.git
+	1. git clone https://github.com/TheoZL/Sounds_Box.git
  	2. Asegúrate de que los archivos de sonido estén en la carpeta adecuada. Deben tener nombres correspondientes a los botones con los que estarán asociados (por ejemplo, sonido_1.mp3, sonido_2.mp3, etc.).
 	3. Abre el archivo index.html en tu navegador para probar el proyecto.
 ## Uso
