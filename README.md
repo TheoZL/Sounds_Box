@@ -1,27 +1,22 @@
-## Proyecto del Curso de JavaScript para Web: Crea páginas dinámicas
+## Proyecto HTML & JavaScript
 
-El proyecto del curso es el Alura Midi que es un instrumento musical de interfaz digital al cual le agregaremos las funcionalidades en el transcurso del curso. 
-
+Este proyecto consiste en una serie de botones que, al hacer clic o presionar ciertas teclas del teclado, reproducen un sonido específico. Cada botón está asociado a un sonido y cambia su estilo visual al ser presionado o activado con el teclado.
  
 ## Comenzando 🚀
 
-Este repositorio contiene varias Branch. 
+## Características
 
-Cada Branch esta identificada con el nombre aula y el numero del aula correspondiente. 
+	•	Interactividad con clic: Los usuarios pueden hacer clic en cualquier botón para reproducir un sonido.
+	•	Soporte para teclado: Los usuarios también pueden usar la tecla Espacio o Enter para activar los botones y reproducir sonidos.
+	•	Estilo dinámico: Los botones cambian su apariencia cuando son activados.
 
-Ejemplo:  **aula-1**
 
-*En la rama principal (main) se encuentra el código base del proyecto para que pueda descargarlo e ir construyendo el codigo con el pasar de las aulas.*
 
 ### Pre-requisitos y uso 📋
 
 Descarga el código que necesites seleccionando la Branch dentro de este repositorio y ábrelo con tu editor de código favorito. 
 
 
----
- Con :blue_heart: 
-- [Alura Latam](https://www.aluracursos.com/) 
-- [Instructora: Jeanmarie Quijada](https://github.com/JeanmarieAluraLatam) 
 
 
 
